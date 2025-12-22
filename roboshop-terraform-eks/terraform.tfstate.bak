@@ -1,0 +1,9 @@
+{
+  "version": 4,
+  "terraform_version": "1.13.3",
+  "serial": 1,
+  "lineage": "48e0b235-0048-8d80-7cab-7e849e495cbc",
+  "outputs": {},
+  "resources": [],
+  "check_results": null
+}
