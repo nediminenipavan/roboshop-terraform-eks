@@ -14,7 +14,7 @@ variable "domain_name" {
     default = "daws86pavan.cyou"
 }
  
- variable "eks_version" {  
+ variable "eks_version" {
 
 }
 
